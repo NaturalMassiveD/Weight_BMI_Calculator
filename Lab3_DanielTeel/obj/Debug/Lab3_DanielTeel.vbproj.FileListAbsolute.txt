@@ -1,0 +1,35 @@
+C:\Users\teel6\AppData\Local\Temporary Projects\Lab3_DanielTeel\bin\Debug\Lab3_DanielTeel.exe.config
+C:\Users\teel6\AppData\Local\Temporary Projects\Lab3_DanielTeel\bin\Debug\Lab3_DanielTeel.exe
+C:\Users\teel6\AppData\Local\Temporary Projects\Lab3_DanielTeel\bin\Debug\Lab3_DanielTeel.pdb
+C:\Users\teel6\AppData\Local\Temporary Projects\Lab3_DanielTeel\bin\Debug\Lab3_DanielTeel.xml
+C:\Users\teel6\AppData\Local\Temporary Projects\Lab3_DanielTeel\obj\Debug\Lab3_DanielTeel.vbprojResolveAssemblyReference.cache
+C:\Users\teel6\AppData\Local\Temporary Projects\Lab3_DanielTeel\obj\Debug\Lab3_DanielTeel.Form1.resources
+C:\Users\teel6\AppData\Local\Temporary Projects\Lab3_DanielTeel\obj\Debug\Lab3_DanielTeel.Resources.resources
+C:\Users\teel6\AppData\Local\Temporary Projects\Lab3_DanielTeel\obj\Debug\Lab3_DanielTeel.vbproj.GenerateResource.Cache
+C:\Users\teel6\AppData\Local\Temporary Projects\Lab3_DanielTeel\obj\Debug\Lab3_DanielTeel.exe
+C:\Users\teel6\AppData\Local\Temporary Projects\Lab3_DanielTeel\obj\Debug\Lab3_DanielTeel.xml
+C:\Users\teel6\AppData\Local\Temporary Projects\Lab3_DanielTeel\obj\Debug\Lab3_DanielTeel.pdb
+C:\Users\teel6\Documents\Visual Studio 2015\Projects\Lab3_DanielTeel\Lab3_DanielTeel\bin\Debug\Lab3_DanielTeel.exe.config
+C:\Users\teel6\Documents\Visual Studio 2015\Projects\Lab3_DanielTeel\Lab3_DanielTeel\obj\Debug\Lab3_DanielTeel.exe
+C:\Users\teel6\Documents\Visual Studio 2015\Projects\Lab3_DanielTeel\Lab3_DanielTeel\obj\Debug\Lab3_DanielTeel.xml
+C:\Users\teel6\Documents\Visual Studio 2015\Projects\Lab3_DanielTeel\Lab3_DanielTeel\obj\Debug\Lab3_DanielTeel.pdb
+C:\Users\teel6\Documents\Visual Studio 2015\Projects\Lab3_DanielTeel\Lab3_DanielTeel\obj\Debug\Lab3_DanielTeel.Form1.resources
+C:\Users\teel6\Documents\Visual Studio 2015\Projects\Lab3_DanielTeel\Lab3_DanielTeel\obj\Debug\Lab3_DanielTeel.Resources.resources
+C:\Users\teel6\Documents\Visual Studio 2015\Projects\Lab3_DanielTeel\Lab3_DanielTeel\obj\Debug\Lab3_DanielTeel.vbproj.GenerateResource.Cache
+C:\Users\teel6\Documents\Visual Studio 2015\Projects\Lab3_DanielTeel\Lab3_DanielTeel\bin\Debug\Lab3_DanielTeel.exe
+C:\Users\teel6\Documents\Visual Studio 2015\Projects\Lab3_DanielTeel\Lab3_DanielTeel\bin\Debug\Lab3_DanielTeel.pdb
+C:\Users\teel6\Documents\Visual Studio 2015\Projects\Lab3_DanielTeel\Lab3_DanielTeel\bin\Debug\Lab3_DanielTeel.xml
+C:\Users\teel6\Documents\Visual Studio 2015\Projects\Lab3_DanielTeel\Lab3_DanielTeel\obj\Debug\Lab3_DanielTeel.vbprojAssemblyReference.cache
+C:\Users\teel6\Documents\Visual Studio 2015\Projects\Lab3_DanielTeel\Lab3_DanielTeel\obj\Debug\Lab3_DanielTeel.vbproj.CoreCompileInputs.cache
+C:\Users\teel6\Documents\Visual Studio 2015\Projects\WeightCalculator\Lab3_DanielTeel\bin\Debug\Lab3_DanielTeel.exe.config
+C:\Users\teel6\Documents\Visual Studio 2015\Projects\WeightCalculator\Lab3_DanielTeel\obj\Debug\Lab3_DanielTeel.exe
+C:\Users\teel6\Documents\Visual Studio 2015\Projects\WeightCalculator\Lab3_DanielTeel\obj\Debug\Lab3_DanielTeel.xml
+C:\Users\teel6\Documents\Visual Studio 2015\Projects\WeightCalculator\Lab3_DanielTeel\obj\Debug\Lab3_DanielTeel.pdb
+C:\Users\teel6\Documents\Visual Studio 2015\Projects\WeightCalculator\Lab3_DanielTeel\bin\Debug\Lab3_DanielTeel.exe
+C:\Users\teel6\Documents\Visual Studio 2015\Projects\WeightCalculator\Lab3_DanielTeel\bin\Debug\Lab3_DanielTeel.pdb
+C:\Users\teel6\Documents\Visual Studio 2015\Projects\WeightCalculator\Lab3_DanielTeel\bin\Debug\Lab3_DanielTeel.xml
+C:\Users\teel6\Documents\Visual Studio 2015\Projects\WeightCalculator\Lab3_DanielTeel\obj\Debug\Lab3_DanielTeel.vbprojAssemblyReference.cache
+C:\Users\teel6\Documents\Visual Studio 2015\Projects\WeightCalculator\Lab3_DanielTeel\obj\Debug\Lab3_DanielTeel.Form1.resources
+C:\Users\teel6\Documents\Visual Studio 2015\Projects\WeightCalculator\Lab3_DanielTeel\obj\Debug\Lab3_DanielTeel.Resources.resources
+C:\Users\teel6\Documents\Visual Studio 2015\Projects\WeightCalculator\Lab3_DanielTeel\obj\Debug\Lab3_DanielTeel.vbproj.GenerateResource.cache
+C:\Users\teel6\Documents\Visual Studio 2015\Projects\WeightCalculator\Lab3_DanielTeel\obj\Debug\Lab3_DanielTeel.vbproj.CoreCompileInputs.cache
