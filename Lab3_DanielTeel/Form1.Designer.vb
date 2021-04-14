@@ -377,7 +377,7 @@ Partial Class Form1
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(16.0!, 31.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
-        Me.ClientSize = New System.Drawing.Size(1516, 1063)
+        Me.ClientSize = New System.Drawing.Size(1516, 1185)
         Me.Controls.Add(Me.grpFemale)
         Me.Controls.Add(Me.grpMale)
         Me.Controls.Add(Me.GroupBox4)
