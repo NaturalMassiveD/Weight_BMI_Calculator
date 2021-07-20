@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.23107.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Lab3_DanielTeel", "Lab3_DanielTeel\Lab3_DanielTeel.vbproj", "{1EBEE753-623A-4D63-9C42-E0DFC8D69CD6}"
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Weight_BMI_Calculator", "Weight_BMI_Calculator\Weight_BMI_Calculator.vbproj", "{1EBEE753-623A-4D63-9C42-E0DFC8D69CD6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

@@ -6,9 +6,9 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{1EBEE753-623A-4D63-9C42-E0DFC8D69CD6}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <StartupObject>Lab3_DanielTeel.My.MyApplication</StartupObject>
-    <RootNamespace>Lab3_DanielTeel</RootNamespace>
-    <AssemblyName>Lab3_DanielTeel</AssemblyName>
+    <StartupObject>Weight_BMI_Calculator.My.MyApplication</StartupObject>
+    <RootNamespace>Weight_BMI_Calculator</RootNamespace>
+    <AssemblyName>Weight_BMI_Calculator</AssemblyName>
     <FileAlignment>512</FileAlignment>
     <MyType>WindowsForms</MyType>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
@@ -21,7 +21,7 @@
     <DefineDebug>true</DefineDebug>
     <DefineTrace>true</DefineTrace>
     <OutputPath>bin\Debug\</OutputPath>
-    <DocumentationFile>Lab3_DanielTeel.xml</DocumentationFile>
+    <DocumentationFile>Weight_BMI_Calculator.xml</DocumentationFile>
     <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
@@ -31,7 +31,7 @@
     <DefineTrace>true</DefineTrace>
     <Optimize>true</Optimize>
     <OutputPath>bin\Release\</OutputPath>
-    <DocumentationFile>Lab3_DanielTeel.xml</DocumentationFile>
+    <DocumentationFile>Weight_BMI_Calculator.xml</DocumentationFile>
     <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
   </PropertyGroup>
   <PropertyGroup>

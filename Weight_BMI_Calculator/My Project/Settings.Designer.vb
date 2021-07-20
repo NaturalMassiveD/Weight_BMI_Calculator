@@ -64,9 +64,9 @@ Namespace My
     Friend Module MySettingsProperty
 
         <Global.System.ComponentModel.Design.HelpKeywordAttribute("My.Settings")> _
-        Friend ReadOnly Property Settings() As Global.Lab3_DanielTeel.My.MySettings
+        Friend ReadOnly Property Settings() As Global.Weight_BMI_Calculator.My.MySettings
             Get
-                Return Global.Lab3_DanielTeel.My.MySettings.Default
+                Return Global.Weight_BMI_Calculator.My.MySettings.Default
             End Get
         End Property
     End Module

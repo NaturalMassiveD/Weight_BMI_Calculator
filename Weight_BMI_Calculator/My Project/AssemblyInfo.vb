@@ -8,10 +8,10 @@ Imports System.Runtime.InteropServices
 
 ' Review the values of the assembly attributes
 
-<Assembly: AssemblyTitle("Lab3_DanielTeel")>
+<Assembly: AssemblyTitle("Weight_BMI_Calculator")>
 <Assembly: AssemblyDescription("")>
 <Assembly: AssemblyCompany("")>
-<Assembly: AssemblyProduct("Lab3_DanielTeel")>
+<Assembly: AssemblyProduct("Weight_BMI_Calculator")>
 <Assembly: AssemblyCopyright("Copyright ©  2015")>
 <Assembly: AssemblyTrademark("")>
 
